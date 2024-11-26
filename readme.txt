@@ -7,8 +7,8 @@ Futures:
 -easy to Edit
 
 How To use:
-1-Copy the Html.html Content To your index File
-2-Copy the master.css to your main css style File of your work
+1-Copy the navigation.html Content To your index File
+2-Copy the master.css Conten to your main css style File of your work
 
 notice:
 you must change the :
