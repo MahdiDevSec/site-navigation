@@ -1,6 +1,6 @@
  # Site-navigation only with Html and Css
 
-** Here you Will Find A HTML and CSS Scripts For make a Stiky Site-Navigation With DropDown List ** :shipit:
+**Here you Will Find A HTML and CSS Scripts For make a Stiky Site-Navigation With DropDown List** :shipit:
 
 ### Futures:
 - DropDown list
